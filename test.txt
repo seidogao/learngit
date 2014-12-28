@@ -9,3 +9,4 @@ for branch
 test 1
 test 2
 test b 1
+test b 2
